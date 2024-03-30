@@ -6,7 +6,7 @@ export default function StudentForm(){
             <h3></h3>
             <form>
 
-                <label for="studentname">Student Name:</label><br/>
+                <label for="studentname">Student Name: hello world#</label><br/>
                 <input type="text" id="studentname" name="studentname"/><br/>
                 <label for="studentemail">Student Email:</label><br/>
                 <input type="email" id="studentemail" name="studentemail"/><br/>
